@@ -1,0 +1,18 @@
+body {
+  background-color: plum;
+}
+
+
+/* ----------- For screens 768px and larger ----------- */
+@media screen and (min-width: 768px) {
+	body {
+    background-color: seagreen;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger----------- */
+@media screen and (min-width: 1200px) {
+  body {
+    background-color: peachpuff;
+  }
+}
